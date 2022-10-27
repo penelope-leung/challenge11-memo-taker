@@ -12,7 +12,7 @@ notes.get('/', (req, res) => {
         res.json(data);
     })
     
-//   readFromFile('./db/notes.json').then((data) => res.json(JSON.parse(data)));
+
 });
 
 // POST Route for a new UX/UI note

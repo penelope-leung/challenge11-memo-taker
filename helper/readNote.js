@@ -3,8 +3,7 @@ const fs = require("fs");
 const NOTES_JSON_PATH = './db/notes.json';
 function readNote(callback) {
     fs.readFile(NOTES_JSON_PATH, (err, data) => {
-        // res.json(JSON.parse(data))
-        callback(JSON.parse(data));
+          callback(JSON.parse(data));
     });
 }
 
