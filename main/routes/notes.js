@@ -6,9 +6,7 @@ var { v4: uuid } = require('uuid');
 console.log('v4: ', uuid())
 // GET Route for retrieving all the notes
 notes.get('/', (req, res) => {
-    // fs.readFile('./db/notes.json', (err, data) => {
-    //     res.json(JSON.parse(data))
-    // });
+
 
     readNote((data) => {
         res.json(data);
