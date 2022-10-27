@@ -61,8 +61,8 @@ https://opensource.org/licenses/MIT
 >__WHEN__ I click on an existing note in the list in the left-hand column<br>
 >__THEN__ that note appears in the right-hand column<br>
 
->__WHEN __ I click on the Write icon in the navigation at the top of the page<br>
->__THEN __ I am presented with empty fields to enter a new note title and the note’s text in the right-hand column<br>
+>__WHEN__ I click on the Write icon in the navigation at the top of the page<br>
+>__THEN__ I am presented with empty fields to enter a new note title and the note’s text in the right-hand column<br>
 
 
   ## Installation
