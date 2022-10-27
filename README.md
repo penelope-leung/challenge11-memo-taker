@@ -20,20 +20,20 @@ https://opensource.org/licenses/MIT
   - [Email](#email)
 
   ## Description:
-  >Step 1: Create a new Note in the right-hand column.
+  >__Step 1:__ Create a new Note in the right-hand column.
 
   ![ScreenShot1](https://github.com/penelope-leung/challenge11-memo-taker/blob/main/main/public/assets/img/2022-10-26-1.png)
 
-  >Step 2: click on the save icon, after finished your description.
+  >__Step 2:__ click on the save icon, after finished your description.
 
   ![ScreenShot1](https://github.com/penelope-leung/challenge11-memo-taker/blob/main/main/public/assets/img/2022-10-26-2.png)
 
-  >Step 3: You will see the new note show in the left-hand column. Don't forget the delete icon in the top<br>of the column, also you can keep creating your note on the right-hand column.
+  >__Step 3:__ You will see the new note show in the left-hand column. Don't forget the delete icon in the top<br>of the column, also you can keep creating your note on the right-hand column.
 
   ![ScreenShot1](https://github.com/penelope-leung/challenge11-memo-taker/blob/main/main/public/assets/img/2022-10-26-3.png)
 
-  >Step 4: All Done!
-  
+  >__Step 4:__ All Done!
+
   ![ScreenShot1](https://github.com/penelope-leung/challenge11-memo-taker/blob/main/main/public/assets/img/2022-10-26-4.png)
 
 
