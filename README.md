@@ -1,7 +1,7 @@
 # Note Taker
 
 ### Repository: 
-https://github.com/penelope-leung/challenge10-emplyee-generator
+https://github.com/penelope-leung/challenge11-memo-taker
 
 ### Deployed Link
 https://desolate-meadow-58959.herokuapp.com/
