@@ -1,6 +1,9 @@
 # Note Taker
 
-## Repository: https://github.com/penelope-leung/challenge10-emplyee-generator
+### Repository: 
+https://github.com/penelope-leung/challenge10-emplyee-generator
+
+### Deployed Link
 
 
  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -18,7 +21,11 @@ https://opensource.org/licenses/MIT
 
   ## Description:
   
-  ![ScreenShot1](https://github.com/PenPen812/challenge5-daily-schedule/blob/main/assets/img/Screen%20Shot.png)
+  ![ScreenShot1](https://github.com/penelope-leung/challenge11-memo-taker/blob/main/main/public/assets/img/2022-10-26-1.png)
+  ![ScreenShot1](https://github.com/penelope-leung/challenge11-memo-taker/blob/main/main/public/assets/img/2022-10-26-2.png)
+  ![ScreenShot1](https://github.com/penelope-leung/challenge11-memo-taker/blob/main/main/public/assets/img/2022-10-26-3.png)
+  ![ScreenShot1](https://github.com/penelope-leung/challenge11-memo-taker/blob/main/main/public/assets/img/2022-10-26-4.png)
+
 
 
 >### User Story<br>
@@ -68,7 +75,7 @@ https://opensource.org/licenses/MIT
       
 
   ## Contribution
-   Penelope Leung and Doua Thao
+   __Penelope Leung__ and __Doua Thao__
 
   ## Testing
   - Open the terminal 
