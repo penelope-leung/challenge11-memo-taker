@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "title": "To do List",
+        "text": "1. Laundry\n2. Grocery Shopping\n3. Study\n4. Assignment",
+        "id": "1e560564-7533-49d7-8792-e677a9b3fcf9"
+    },
+    {
+        "title": "Prep for birthday party",
+        "text": "1. Cake\n2. drinks\n3. Caddles\n4. snacks",
+        "id": "f1a0520f-93d4-4581-b89f-02cb3aae1de8"
+    }
+]
